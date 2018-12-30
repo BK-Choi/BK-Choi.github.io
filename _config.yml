@@ -28,7 +28,8 @@ github_username:  BK-Choi
 markdown: kramdown
 #theme: minima
 theme: just-the-docs
-remote_theme: pmarseill/just-the-docs
+remote_theme: pmarsceill/just-the-docs
+#remote_theme: pmarseill/just-the-docs
 plugins:
   - jekyll-feed
 
