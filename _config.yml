@@ -27,7 +27,7 @@ github_username:  BK-Choi
 # Build settings
 markdown: kramdown
 #theme: minima
-theme: just-the-docs
+#theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
 #remote_theme: pmarseill/just-the-docs
 plugins:
