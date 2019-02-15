@@ -2,7 +2,7 @@
 layout: default
 title: INTRO
 parent: 대기업 개발자가 스타트업 자문을 한다
-nav_order: 2
+comments: true
 ---
 
 tag: #intro #startup #counsel
