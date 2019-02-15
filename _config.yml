@@ -18,7 +18,7 @@ email: cbk1411@naver.com
 description: >- 
   Hand Off Your Chores
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://BK-Choi.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: https://bk-choi.github.io
 # twitter_username: 
 github_username:  BK-Choi
 
@@ -28,6 +28,7 @@ markdown: kramdown
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
+permalink: none
 
 # Theme setting
 search_enabled: true
