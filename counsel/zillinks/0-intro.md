@@ -1,6 +1,6 @@
 ---
 layout: default
-title: INTRO
+title: '#0 INTRO'
 parent: 대기업 개발자가 스타트업 자문을 한다
 comments: true
 ---
