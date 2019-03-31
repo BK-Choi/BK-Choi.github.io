@@ -28,7 +28,6 @@ markdown: kramdown
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
-  - jekyll-mermaid
 permalink: none
 
 # Theme setting
@@ -40,10 +39,8 @@ aux_links:
 
 disqus:
   shortname: dipsi
-mermaid:
-    #  src: '/assets/js/vendor/mermaid.min.js'
-  src: 'https://unpkg.com/mermaid@8.0.0/dist/mermaid.min.js'
-  # Exclude from processing.
+
+# Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 # exclude:
