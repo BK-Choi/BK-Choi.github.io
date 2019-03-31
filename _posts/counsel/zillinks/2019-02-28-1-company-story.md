@@ -3,8 +3,17 @@ layout: default
 title: '#1 STORY'
 parent: 대기업 개발자가 스타트업 자문을 한다
 comments: true
-category: [ counsel, zillinks ]
+categories: [ counsel, zillinks ]
 ---
+
+# Navigation Structure
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 # 서비스 회사에 있어서 스토리의 중요성
 사업철학에 대한 비현실적인 이야기입니다. (현재 이렇게 일하는 기업이 있다면 연락주세요.)
